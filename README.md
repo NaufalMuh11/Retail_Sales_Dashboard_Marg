@@ -19,17 +19,6 @@ The dashboard answers **6 core business questions** through interactive visualiz
 | 5 | **Revenue by Customer Type** | Are we acquiring new customers or relying on repeat buyers? |
 | 6 | **Top 5 Products** | What are our best sellers? Is revenue concentrated in few products? |
 
-## Dashboard Components
-
-| Component | Chart Type | Business Question |
-|-----------|-----------|-------------------|
-| **Revenue by Month** | Line chart | When are we strong/weak during the year? |
-| **Revenue by Region** | Pie chart | Where is revenue concentrated geographically? |
-| **Revenue by Sales Channel** | Bar chart | Which channels generate the most revenue? |
-| **Revenue by Product Category** | Pie chart | Which product categories drive revenue? |
-| **Revenue by Customer Type** | Bar chart | Are we acquiring new customers or relying on repeat buyers? |
-| **Top 5 Products** | List | What are our best-selling products? |
-
 ## Filters
 
 - **Region:** Central, East, North, South, West
