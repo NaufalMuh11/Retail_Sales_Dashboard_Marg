@@ -102,14 +102,6 @@ raw sales data_marg/
 
 - New customer acquisition is thin at 31.4% of revenue, and Retail Store's 37% new-customer rate makes it the logical channel to push harder on for growth, since over-reliance on the existing base is a long-term risk if it ever churns.
 
-| # | Recommendation | Why |
-|---|----------------|-----|
-| 1 | **Diversify from Computers** — grow Monitors & Networking via bundles | Computers = 54.9% concentration risk. Monitors growing +49%. (sumber: Revenue by Product Category) |
-| 2 | **Protect returning customers** — build retention/loyalty program | Returning = 68.6% of revenue, AOV 15% higher. Losing them is catastrophic. (sumber: Revenue by Customer Type) |
-| 3 | **Review Marketplace channel** — check if costs justify low returns | 18.5% orders but only 12.7% revenue. Lowest AOV of all channels. (sumber: Revenue by Sales Channel) |
-| 4 | **Copy Corporate Sales model** to Online & Retail Store | Corporate Sales = highest revenue per order. Online has more orders but lower value. (sumber: Revenue by Sales Channel) |
-| 5 | **Grow new customer base** — focus on Retail Store (37% new rate) | New customers only 31.4% of revenue. Long-term risk without acquisition growth. (sumber: Revenue by Customer Type) |
-
 ### Further Update for Dashboard
 
 | # | Recommendation | Missing Data |
